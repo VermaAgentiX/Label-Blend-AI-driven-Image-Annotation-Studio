@@ -1,14 +1,20 @@
 Developer Note - 🚀 LabelBlend Pro AI Studio Version is live Microsoft Store, 
 Experience the next generation of AI-assisted dataset creation, annotation, and computer vision workflows.
 
+🌐 for Documentation & learn more - https://www.vermaagentix.com/
+
+
 🚀 Installation
-## Download labelBlend Pro from Microsoft Store
+## Get LabelBlend Pro from the Microsoft Store:
+👉 https://apps.microsoft.com/detail/9N8L5LK3Z4LV?hl=en-us&gl=IN&ocid=pdpshare
 
 <a href="https://apps.microsoft.com/detail/9N8L5LK3Z4LV?hl=en-us&gl=IN&ocid=pdpshare">
   <img src="images/ms_store.png" alt="Download from Microsoft Store" width="40">
 </a>
 
-## Download LabelBlend Lite 
+## Get LabelBlend Lite from the Microsoft Store:
+
+👉 https://apps.microsoft.com/detail/9P7GN6ZVZTVR?hl=en-us&gl=IN&ocid=pdpshare
 
 <a href="https://apps.microsoft.com/detail/9P7GN6ZVZTVR?hl=en-us&gl=IN&ocid=pdpshare">
   <img src="images/ms_store.png" alt="Download from Microsoft Store" width="40">
