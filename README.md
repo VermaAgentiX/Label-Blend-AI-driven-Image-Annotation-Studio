@@ -12,7 +12,7 @@ Experience the next generation of AI-assisted dataset creation, annotation, and 
   <img src="images/ms_store.png" alt="Download from Microsoft Store" width="40">
 </a>
 
-## Get LabelBlend Lite from the Microsoft Store:
+## Get free version:
 
 👉 https://apps.microsoft.com/detail/9P7GN6ZVZTVR?hl=en-us&gl=IN&ocid=pdpshare
 
