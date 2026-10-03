@@ -20,7 +20,8 @@ Experience the next generation of AI-assisted dataset creation, annotation, and 
   <img src="images/ms_store.png" alt="Download from Microsoft Store" width="40">
 </a>
 
-
+## Project Tutorial on Youtube
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtube.com/playlist?list=PLLXi4zJMcqB8&si=TJpdBw66jJ0pbLoV)
 
 
 > Human-guided end-to-end AI pipeline for creating AI-ready computer vision datasets.
@@ -34,8 +35,7 @@ Experience the next generation of AI-assisted dataset creation, annotation, and 
 Vision Model used for Segment automation - META (SAM 2) Vision Transformer Model
 
 
-## Project Tutorial on Youtube
-[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtu.be/Pplf59qdIj4)
+
 
 
 ![workspace](images/Home.jpg)
